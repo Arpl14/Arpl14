@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **arlona@iu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HImmu0Z8bgU687qlf7uX6Hfw40God-xu/view?usp=sharing](https://drive.google.com/file/d/1HImmu0Z8bgU687qlf7uX6Hfw40God-xu/view?usp=sharing)
 
 - ⚡ Fun fact **My Motto: Turning data chaos into order—one algorithm at a time!**
 
