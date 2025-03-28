@@ -7,7 +7,8 @@
 - 📫 How to reach me **lonakadiarpita@gmail.com**
 
 
-- ⚡ Fun fact **My Motto: Turning data chaos into order—one algorithm at a time!**
+- ⚡ Fun fact - I speak 6 human languages (and a few programming ones too)
+-  **My Motto: Turning data chaos into order—one algorithm at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
