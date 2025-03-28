@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arpita Lonakadi</h1>
-<h3 align="center">Not just a data analyst—your new favorite dashboard detective.</h3>
+<!-- <h3 align="center">Not just a data analyst—your new favorite dashboard detective.</h3> -->
 
 - 🌱 I’m currently learning **how to predict the future… with data, not a crystal ball.**
 
-- 💬 Ask me about **I reduced healthcare waste using AI (and made data cleanup surprisingly exciting!).**
 
-- 📫 How to reach me **arlona@iu.edu**
+- 📫 How to reach me **lonakadiarpita@gmail.com**
 
 
 - ⚡ Fun fact **My Motto: Turning data chaos into order—one algorithm at a time!**
